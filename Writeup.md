@@ -1,7 +1,5 @@
 ## Writeup
 
----
-
 **Advanced Lane Finding Project**
 
 The goals / steps of this project are the following:
@@ -97,15 +95,11 @@ I implemented this step in the 14th and 15th code cell of the IPython notebook l
 
 ![alt text][image6]
 
----
-
 ### Pipeline (video)
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
 The file is located in "./output_videos/project_video.mp4".
-
----
 
 ### Discussion
 
